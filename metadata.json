@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "An AI-powered application to generate and transform images. Create new visuals from text prompts or edit existing images by changing their aspect ratio through intelligent content filling and quality enhancement.",
+  "requestFramePermissions": []
+}
